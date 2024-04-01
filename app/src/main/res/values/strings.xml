@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ComposeAndViewModel</string>
+    <string name="title_trip">Landscape</string>
+    <string name="desc1">Trip to Mountains</string>
+    <string name="desc2">We offering wide range of tailormade tekking packages in Nepal</string>
+    <string name="txt_email">Email</string>
+    <string name="txt_password">Password</string>
+</resources>
